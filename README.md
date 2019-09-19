@@ -5,10 +5,11 @@ In this project I built an app Akin to a Amazon store. Using Node, mySQL, and in
 This app **requires mySQL workbench || Sequel Pro && Mamp**
 
 1. Clone this Repo into your local system
-2. Open your Terminal/Bash and direct into your desired location
-3. In you command line input `node bamazoncustomer.js`
-4. Follow prompts with desired selections and quantity amounts
-5. _Enjoy!_
+2. Use 
+3. Open your Terminal/Bash and direct into your desired location
+4. In you command line input `node bamazoncustomer.js`
+5. Follow prompts with desired selections and quantity amounts
+6. _Enjoy!_
 
 Below I have provided a video link of the app running as so.
 
