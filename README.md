@@ -5,7 +5,7 @@ In this project I built an app Akin to a Amazon store. Using Node, mySQL, and in
 This app **requires mySQL workbench || Sequel Pro && Mamp**
 
 1. Clone this Repo into your local system
-2. Use 
+2. Use 'bamazondb.sql' file in your SQL app to host the db, table, and data
 3. Open your Terminal/Bash and direct into your desired location
 4. In you command line input `node bamazoncustomer.js`
 5. Follow prompts with desired selections and quantity amounts
