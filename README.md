@@ -1,5 +1,5 @@
 # Bamazon
-In this project I built an app Akin to a Amazon store. Using Node, mySQL, inquirer users have a choice of mutiple options that they can select. When they select they then choose their desired quantity and then the app will calculate their total. If the database does not have contain the quantity the user selected the app will notify and reset the store program.
+In this project I built an app Akin to a Amazon store. Using Node, mySQL, and inquirer users have a choice of mutiple options that they can select. When they choose their desired item by ID, they then choose the quantity and the app will calculate their total price. If the database does not have contain the quantity the user selected the app will notify and reset the store program.
 
 ##Instruction Breakdown
 This app **requires mySQL workbench || Sequel Pro && Mamp**
